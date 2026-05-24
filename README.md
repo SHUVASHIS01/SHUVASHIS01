@@ -1,34 +1,151 @@
-### Hi there 👋
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shuvashis Basak</h1>
-<h3 align="center">A passionate undergrade student of CSE from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:a855f7&height=120&section=header&text=Shuvashis%20Basak&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Engineer;Deep+Learning+Enthusiast;Technical+Blogger+%40+Hashnode;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvashis01&label=Profile%20views&color=0e75b6&style=flat" alt="shuvashis01" /> </p>
+<br/>
 
-- 🌱 I’m currently learning **Full stack web-development**
+[![Profile Views](https://komarev.com/ghpvc/?username=SHUVASHIS01&color=00d4ff&style=flat-square&label=Profile+Views)](https://github.com/SHUVASHIS01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvashis-basak-177425247/)
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@SHUVASHIS01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:basakshuvashis@gmail.com)
 
-- 💬 Ask me about **Python, Java, CSS, JavaScipt, HTML**
+</div>
 
-- 📫 How to reach me **basakshuvashis@gmail.com**
+---
 
-- ⚡ Fun fact **I can make you smile**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shuvashis-basak-177425247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvashis-basak-177425247" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/basak.argho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/basak.argho/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/shuvashis_basak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shuvashis_basak" height="30" width="40" /></a>
-</p>
+```javascript
+const shuvashis = {
+  university : "BRAC University, Dhaka 🇧🇩",
+  degree     : "BSc in Computer Science & Engineering",
+  cgpa       : "3.61 / 4.00",
+  graduation : "2026 (expected)",
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+  currentFocus : ["Full Stack Web Development", "Deep Learning", "System Design"],
+  techStack    : ["React", "Next.js", "Node.js", "MongoDB", "TypeScript"],
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvashis01&show_icons=true&locale=en&layout=compact" alt="shuvashis01" /></p>
+  achievements : [
+    "🏅 Duke of Edinburgh Award Recipient",
+    "🌍 Aspire Leaders Program — Global Cohort (180+ countries)",
+    "✍️  Technical Blogger @ Hashnode",
+    "🏏  RS-62 Cricket Tournament Runner-up",
+    "💻  BRAC University Computer Club — Active Member",
+  ],
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvashis01&show_icons=true&locale=en" alt="shuvashis01" /></p>
+  funFact : "I believe code should be as elegant as the UI it powers.",
+};
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvashis01&" alt="shuvashis01" /></p>
-![image](https://github.com/SHUVASHIS01/SHUVASHIS01/assets/109520486/2b9a20f7-46a9-454f-b908-e7c68bcb39ba)
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite,figma,framermotion&perline=10)](https://skillicons.dev)
+
+**Backend & Database**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postman&perline=10)](https://skillicons.dev)
+
+**AI / ML & Systems**
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,opencv,c,linux,git,github,vercel,netlify&perline=10)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Links |
+|---|---|---|
+| 🏥 **MediQueue** — Tutor Booking System | `Node.js` `React` `MongoDB` `JWT` | [![Live](https://img.shields.io/badge/Live-00d4ff?style=flat-square)](https://medi-queue-tutor-booking-system-cli.vercel.app) [![Repo](https://img.shields.io/badge/Repo-333?style=flat-square&logo=github)](https://github.com/SHUVASHIS01/-MediQueue-Tutor-Booking-System_client) |
+| 💼 **JobPortal** — Smart Recruitment Platform | `React 19` `Node.js` `Chart.js` `Nodemailer` | [![Live](https://img.shields.io/badge/Live-00d4ff?style=flat-square)](https://jobportal-orpin-ten.vercel.app) [![Repo](https://img.shields.io/badge/Repo-333?style=flat-square&logo=github)](https://github.com/SHUVASHIS01/CSE471_Project) |
+| 🎨 **DeveloperLook** — Agency Site Recreation | `React 19` `GSAP` `Framer Motion` `Tailwind v4` | [![Live](https://img.shields.io/badge/Live-00d4ff?style=flat-square)](https://developerlookfrontendproject.netlify.app) [![Repo](https://img.shields.io/badge/Repo-333?style=flat-square&logo=github)](https://github.com/SHUVASHIS01/Frontend-for-DeveloperLook) |
+| 📚 **BookBorrow** — Book Borrowing Platform | `Next.js 15` `TypeScript` `BetterAuth` `MongoDB` | [![Live](https://img.shields.io/badge/Live-00d4ff?style=flat-square)](https://book-borrowing-platform-lilac.vercel.app) [![Repo](https://img.shields.io/badge/Repo-333?style=flat-square&logo=github)](https://github.com/SHUVASHIS01/book-borrowing-platform) |
+| 🏥 **HealthConnect** — Healthcare Management | `React 18` `Express` `JWT` `MVC` | [![Repo](https://img.shields.io/badge/Repo-333?style=flat-square&logo=github)](https://github.com/SHUVASHIS01/projectHealth) |
+| 🧠 **Brain Tumor Detection** — Deep Learning | `PyTorch` `ResNet18` `U-Net` `OpenCV` | [![Repo](https://img.shields.io/badge/Repo-333?style=flat-square&logo=github)](https://github.com/SHUVASHIS01/CSE428/blob/main/CSE428_Project.ipynb) |
+| 💾 **MiniVSFS** — Custom Filesystem in C | `C` `POSIX` `CRC32` `Bitmap Allocation` | [![Repo](https://img.shields.io/badge/Repo-333?style=flat-square&logo=github)](https://github.com/SHUVASHIS01/CSE321-operating-system-/tree/main/Project_Sec_10_Group_7) |
+| 🎮 **3D Pac-Man** — Computer Graphics Game | `Python` `OpenGL` `PyOpenGL` `GLUT` | [![Repo](https://img.shields.io/badge/Repo-333?style=flat-square&logo=github)](https://github.com/SHUVASHIS01/CSE423_Project) |
+
+</div>
+
+> 📌 See all **13+ projects** in [my repositories →](https://github.com/SHUVASHIS01?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SHUVASHIS01&show_icons=true&theme=tokyonight&bg_color=04070a&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&rank_icon=github" height="165" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHUVASHIS01&layout=compact&theme=tokyonight&bg_color=04070a&border_color=a855f7&title_color=a855f7&text_color=ffffff&hide_border=false" height="165" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SHUVASHIS01&theme=transparent&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff&dates=888888&stroke=00d4ff22&border=00d4ff44&background=04070a" alt="GitHub Streak" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHUVASHIS01&bg_color=04070a&color=00d4ff&line=a855f7&point=ffffff&area=true&area_color=00d4ff22&border_color=00d4ff44" width="98%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+| 🏅 Duke of Edinburgh Award | 🌍 Aspire Leaders Program | ✍️ Technical Blogger |
+|:---:|:---:|:---:|
+| International recognition for leadership, resilience & community engagement | Selected globally — cohort from **180+ countries** | Publishing dev articles on **Hashnode** since 2024 |
+
+| 🏏 RS-62 Cricket Tournament | 💻 BRAC University Computer Club |
+|:---:|:---:|
+| **Runner-up** — teamwork & strategy under pressure | Active member — technical events & workshops |
+
+</div>
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+> 📝 Check out my latest articles at [hashnode.com/@SHUVASHIS01](https://hashnode.com/@SHUVASHIS01)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvashis-basak-177425247/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basakshuvashis@gmail.com)
+[![Hashnode](https://img.shields.io/badge/Blog-Read%20Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@SHUVASHIS01)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHUVASHIS01)
+
+<br/>
+
+*Open to full-time roles, internships, and exciting projects.* <br/>
+*📍 Dhaka, Bangladesh — 📞 +880 1709 363615*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:00d4ff&height=100&section=footer" width="100%"/>
