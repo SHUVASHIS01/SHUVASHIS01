@@ -24,7 +24,7 @@ const shuvashis = {
   university : "BRAC University, Dhaka 🇧🇩",
   degree     : "BSc in Computer Science & Engineering",
   cgpa       : "3.61 / 4.00",
-  graduation : "2026 (expected)",
+  graduation : "2026",
 
   currentFocus : ["Full Stack Web Development", "Deep Learning", "System Design"],
   techStack    : ["React", "Next.js", "Node.js", "MongoDB", "TypeScript"],
